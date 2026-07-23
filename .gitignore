@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Dataset folders
+ecg_data/
+dataset_split/
+dataset_split_augmented/
+
+# Model weights
+*.pth
+*.pt
+*.ckpt
+
+# Generated files
+*.png
+
+# Training outputs
+runs/
+outputs/
+checkpoints/
